@@ -1,0 +1,13 @@
+{
+  "name": "getKinds",
+  "version": "1.0.0",
+  "main": "js/src/getKinds",
+  "dependencies": {
+    "getKind": "aleclarson/getKind#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
