@@ -1,0 +1,8 @@
+{
+  "name": "getKinds",
+  "version": "1.0.1",
+  "main": "js/getKinds",
+  "dependencies": {
+    "getKind": "aleclarson/getKind#1.0.0"
+  }
+}
